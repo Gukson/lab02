@@ -10,10 +10,15 @@ zielony, M, 3
 Każdy wiersz w tym pliku odpowiada innej kombinacji koloru i rozmiaru. Zebranie informacji dotyczących preferencji co do koloru i rozmiaru koszulek nastąpiło dopiero po ich zakupie. Odbyło się to w formie ankiety przeprowadzonej wśród potencjalnych uczestników imprezy. Mogli oni w jej trakcie wskazać kilka kolorów koszulek, uszeregowanych od najbardziej oczekiwanego do najmniej oczekiwanego, oraz jeden rozmiar. Preferencje te zapisano w pliku preferencje.txt o zawartości:
 
 kolory,rozmiar
+
 czerwony;niebieski,L
+
 niebieski,XL
+
 biały,L
+
 ...
+
 Każdy wiersz w tym pliku odpowiada odpowiedzi udzielonej przez innego ankietowanego. Na koniec postanowiono rozdać koszulki wśród uczestników imprezy próbując to zrobić w sposób optymalny. Optymalizacja tutaj nie była jednak oczywista, gdyż:
 liczba uczestników imprezy integracyjnej nie musiała zgadzać się z liczbą zamówionych koszulek,
 najprawdopodobniej zebrane preferencje nie odpowiadały zrobionemu zamówieniu.
