@@ -1,7 +1,7 @@
 # lab02
 
 Podczas laboratorium należy rozwiązać problem optymalizacyjny zdefiniowany poniżej. Załóżmy, że jakaś firma zamawia na imprezę integracyjną koszulki z logo firmy. Koszulki te mogą być w różnych kolorach oraz w różnych rozmiarach i mają trafić do osób biorących udział w imprezie. Zwykle przy składaniu tego typu zamówień wcześniej przeprowadza się analizę potrzeb. Niestety, w firmie nie dało się tego zrobić. Zamiast tego dokonano zamówienia szacując te potrzeby. W efekcie zakupiono koszulki, zestawienie których opisano w pliku zamowienie.txt o zawartości:
-kolor, rozmiar, sztuki
+kolor, rozmiar, sztuki\n
 czerwony, XS, 3
 niebieski, XL, 2
 zielony, M, 3
