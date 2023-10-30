@@ -1,0 +1,3 @@
+czerwony;niebieski,L
+niebieski,XL
+biały,L

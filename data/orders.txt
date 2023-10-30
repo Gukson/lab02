@@ -1,0 +1,3 @@
+czerwony, XS, 1
+niebieski, XL, 1
+zielony, M, 1
